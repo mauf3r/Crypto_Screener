@@ -1,6 +1,6 @@
 # TradingView Crypto Screener
 
-Dieses Jupyter Notebook fragt eine vorgegebene Liste von Handelspaaren von eine Börse (im Block *Settings* einstellen) ab, und erstellt eine Liste mit den lohnensten Paaren, um einen neuen Bot zu erstellen.
+Dieses Jupyter Notebook fragt eine vorgegebene Liste von Handelspaaren von einer Börse (im Block *Settings* einstellen) ab, und erstellt eine Liste mit den lohnensten Paaren, um einen neuen Bot zu erstellen.
 
 ## Idee
 TradingView stellt im Screener mehrere Handelssignale zur Verfügung. Hier wird das *Technical Rating* (TR) verwendet.
