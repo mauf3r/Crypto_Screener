@@ -9,9 +9,7 @@ Was man in der normalen Screener-Ansicht nicht sehen kann: das Signal wird für 
 
  **Bedingung**
 
- Vola (1D) > 1% `Volatility|1D > 1`
-
- & TR (1D): *Strong Buy* `Recommended.All > 0.5`
+ TR (1D): *Strong Buy* `Recommended.All > 0.5`
  
  & TR (1W): *Strong Buy* `Recommended.All|1W > 0.5`
  
